@@ -40,3 +40,5 @@ swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/prometheus-operator:v0.49.0
 swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/system-monitor-config-web:v3.1.6
 docker.io/mirantis/k8s-netchecker-agent:v1.2.2
 docker.io/mirantis/k8s-netchecker-server:v1.2.2
+
+yaoapp/yao:0.10.4-unstable-amd64-dev
