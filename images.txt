@@ -1,6 +1,7 @@
 nginx
 redis:latest
 postgres:15-alpine
+mysql:8.0.36
 redis:6-alpine
 ubuntu/squid:latest
 langgenius/dify-sandbox:0.2.1
