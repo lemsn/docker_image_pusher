@@ -1,5 +1,6 @@
 nginx
 redis:latest
+ubuntu:22.04
 postgres:15-alpine
 mysql:8.0.36
 redis:6-alpine
