@@ -1,1 +1,4 @@
-ghcr.io/openstack-exporter/openstack-exporter:latest
+redis:3.2
+mongo:4.0.13-xenial
+elasticsearch:6.8.7
+elasticsearch:7.6.1
