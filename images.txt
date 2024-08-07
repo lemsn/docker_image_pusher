@@ -1,1 +1,1 @@
-seafileltd/seafile-mc:11.0.10
+memcached:1.6.18
