@@ -1,4 +1,1 @@
-gitlab/gitlab-ce:16.11.10-ce.0
-gitlab/gitlab-ce:17.3.7-ce.0
-gitlab/gitlab-ce:17.5.2-ce.0
-gitlab/gitlab-ce:17.6.0-ce.0
+python:3.10.12
