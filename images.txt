@@ -1,1 +1,1 @@
-langgenius/dify-api:0.12.1
+redis:alpine
