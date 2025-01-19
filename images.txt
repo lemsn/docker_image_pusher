@@ -3,3 +3,4 @@ mariadb:10.11
 memcached:1.6.29
 lucaslorentz/caddy-docker-proxy:2.9
 seafileltd/notification-server:12.0-latest
+seafileltd/sdoc-server:1.0-latest
