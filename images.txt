@@ -1,4 +1,1 @@
-hanchuanchuan/goinception
-hhyo/archery:v1.11.3
-mysql:5.7
-redis:5
+mintplexlabs/anythingllm
