@@ -1,1 +1,4 @@
-onlyoffice/documentserver:8.1.0.1
+hanchuanchuan/goinception
+hhyo/archery:v1.11.3
+mysql:5.7
+redis:5
