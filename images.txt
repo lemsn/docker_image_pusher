@@ -1,1 +1,1 @@
-wheelybird/openvpn-ldap-otp
+tiredofit/openvpn
