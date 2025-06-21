@@ -1,1 +1,1 @@
-tiredofit/openvpn
+docker pull python:3.10-slim-bookworm
